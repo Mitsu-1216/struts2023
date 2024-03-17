@@ -5,7 +5,7 @@
 	id="WebApp_ID" version="3.1">
 	<display-name>Struts2HelloWorld</display-name>
 	<welcome-file-list>
-		<!-- アプリケーションルートであクセした時の表示ファイル設定 -->
+		<!-- アプリケーションルートでアクセスした時の表示ファイル設定 -->
 		<!-- 必要はありませんが、今回はURLの入力間違いも防ぐため、index.jspのみとします。 -->
 		<welcome-file>index.jsp</welcome-file>
 	</welcome-file-list>
