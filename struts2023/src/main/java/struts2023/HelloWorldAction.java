@@ -1,3 +1,4 @@
+//Webアプリケーションの処理を担うActionクラス
 package struts2023;
 
 import org.apache.logging.log4j.LogManager;
